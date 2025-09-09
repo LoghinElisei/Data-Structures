@@ -1,0 +1,7 @@
+#executabile
+*.exe
+*.o
+
+#foldere IDE
+.vscode/
+.idea/
